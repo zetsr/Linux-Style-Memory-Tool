@@ -1,6 +1,6 @@
 # Linux-Style-Memory-Tool
 
-### process
+## process
 
 *列出所有有效进程*
 
@@ -26,7 +26,7 @@ process -r <list_id> <process_name> <process_name.exe>
 process -AOBS <sig>
 ```
 
-### address
+## address
 
 *退出当前选中的内存地址*
 
